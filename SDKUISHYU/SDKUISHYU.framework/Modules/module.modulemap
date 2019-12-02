@@ -1,0 +1,6 @@
+framework module SDKUISHYU {
+  umbrella header "SDKUISHYU.h"
+
+  export *
+  module * { export * }
+}
