@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SDKUISHYU"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "This is a SDK UI of SDKUISHYU."
   spec.description  = "Like this you can get LTGameSDKcore and SDKUISHYU use it."
   spec.homepage     = "https://github.com/zhubinfeng/SDKUISHYU"
