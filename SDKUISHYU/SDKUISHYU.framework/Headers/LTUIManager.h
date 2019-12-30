@@ -3,7 +3,7 @@
 //  SDKUISHYU
 //
 //  Created by ZBF on 2019/11/28.
-//  Copyright © 2019 gnetop. All rights reserved.
+//  Copyright © 201 gnetop. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
